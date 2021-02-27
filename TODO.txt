@@ -1,0 +1,6 @@
+Introduce hidden layer(s),
+Use sigmoid as well as RELU for the hidden neurons and study the difference,
+Develop a good GUI for input mechanism,
+Use word2vec, GloVe, FastText for word embedding and compare results,
+Solve the data unbalance problem (class V has 65% of the data),
+Achieve at least 85% accuracy (currently for many groups it is in the range of 40s)."
